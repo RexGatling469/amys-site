@@ -172,7 +172,8 @@ p {
 
 @media only all and (max-width: 800px) {
   .social {
-    padding: 15px 15px;
+    padding: 12px 0;
+    display: inline-block;
   }
 }
 
