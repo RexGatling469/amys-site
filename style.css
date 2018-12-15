@@ -177,6 +177,12 @@ p {
   }
 }
 
+@media only all and (max-width: 800px) {
+  .writing-links {
+    width: 100%;
+  }
+}
+
 
 @media only all and (max-width: 800px) {
   .element.style {
